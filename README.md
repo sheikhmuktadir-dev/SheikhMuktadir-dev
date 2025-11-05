@@ -1,69 +1,58 @@
-# 👋 Hello, I'm Sheikh Muktadir
-
-I'm a **Frontend Developer** with 2+ years of experience creating modern, responsive websites and web applications using **React**, **JavaScript**, and clean UI frameworks like **Tailwind CSS** and **Bootstrap**.
-
-I focus on writing clean, well-structured code that brings designs to life. My work follows best practices in accessibility, performance, and cross-browser compatibility. I'm confident working independently or as part of a team.
+# Sheikh Muktadir  
+**UI + Frontend Developer (React Only)**  
+*Self-Taught in 2025* — 100% via **Udemy (Maximilian Schwarzmüller)** + **freeCodeCamp YouTube**  + **Code Stoic**  
 
 ---
 
-## 💼 What I Offer
-
-- ✅ Strong skills in **React** and modern frontend development  
-- ✅ Ability to convert design mockups (Figma or other tools) into fully functional web pages  
-- ✅ Solid understanding of **HTML, CSS, and JavaScript**  
-- ✅ Experience building user interfaces that are clean, responsive, and user-friendly  
-- ✅ Comfortable using Git, GitHub, and modern dev tools (Vite, Chrome DevTools, etc.)
+## Learning Journey (2025 – Self-Taught)
+- **Instructor:** Maximilian Schwarzmüller (Udemy – *React - The Complete Guide*)  
+- **YouTube:** freeCodeCam, Code Stoic 
+- **Practice:** Built real-world UI-heavy apps from scratch  
+- **No bootcamps. No mentors. Just code, Figma, and deployment.**
 
 ---
 
-## 🌍 Open to Work in Europe
+## Core Skills (React-Focused UI + Frontend)
+| Category           | Skills |
+|--------------------|--------|
+| **React**          | Functional Components, Hooks (`useState`, `useEffect`, `useContext`) |
+| **State Management** | **React Context API** (custom providers, global state) |
+| **Data Fetching**  | **async/await + fetch API** (REST, error handling, loading states) |
+| **UI & Styling**   | Tailwind CSS, CSS Modules, Responsive Design, Mobile-First |
+| **Tools**          | Vite, Git, GitHub, VS Code, Chrome DevTools |
+| **Deployment**     | Vercel, Netlify |
 
-I am actively looking for **frontend developer roles across Europe** — open to both **remote** work and **relocation**.
-
-I’m reliable, fast to learn, and ready to integrate into European development teams.
-
-- 🔹 Available full-time  
-- 🔹 Ready to relocate if needed  
-- 🔹 Aligned with European work culture and communication standards  
-- 🔹 Fluent in English
-
-**Preferred countries:** Germany, Netherlands, Sweden, Finland, Denmark, Portugal, Poland, Spain, Norway
-
----
-
-## 🛠 Tech Stack Overview
-
-| Languages & Frameworks | UI & Styling Tools     | Workflow Tools        |
-|------------------------|------------------------|------------------------|
-| JavaScript, React      | Tailwind CSS, Bootstrap| Git, GitHub, VS Code   |
-| HTML5, CSS3            | Responsive Design      | Vite, Chrome DevTools  |
+> **No Zustand. No React Query.**  
+> I build **clean, scalable state & data logic** using **React Context + async/await**
 
 ---
 
-## 🧩 Selected Projects
-
-- **Portfolio Website**  
-  Built with React + Tailwind CSS. Fully responsive.  
-  [Live Demo](https://your-portfolio-link.com) • [GitHub](https://github.com/SheikhMuktadir-dev/portfolio-site)
-
-
-## 📫 Contact
-
-- 📧 **Email:** sheikhmuktadir.dev@gmail.com  
-- 🌐 **Portfolio:** 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sheikhmuktadir-dev/
+## Projects (UI-Heavy, Production-Ready)
+### 1. **Auria Property** – Real Estate Website  
+- Modern property listing platform (like Bayut/Zillow)  
+- Responsive grid, search filters, property cards 
+- Built with **React + CSS**  
+- State: Context API for filters
+- Data: Mock API with `fetch` + `async/await`  
+- *Live on Vercel (can deploy in 1 hour on request)*
 
 ---
 
-## ✔️ Why Hire Me?
+## Open to Work – **Dubai Onsite Only**
+**Dubai is my #1 goal.** I want to work **in-person** with UAE teams.
 
-- I deliver clean, maintainable frontend code  
-- I work well with designers and backend teams  
-- I understand the importance of user experience  
-- I'm committed, consistent, and available for EU-based roles
+- **Full-time onsite in Dubai**  
+- **Visa sponsorship welcome**  
+- **Can relocate within 2 weeks**  
+- **Fluent English**, clear communication  
+- **Respectful of UAE work culture** – punctual, professional, team-first  
+
+**Target Roles:**  
+Junior/Mid-Level **UI + React Frontend Developer**  
+Agencies, Real Estate Tech, E-commerce, Startups in **Dubai**
 
 ---
 
-🎯 *Looking for frontend opportunities across Europe — React-focused, remote or relocation-ready.*
+## Tech Stack (UI + React Only)
 
-Let’s build something great together.
+React 19 → Context API → async/await + fetch → Tailwind CSS → Vite → Git
