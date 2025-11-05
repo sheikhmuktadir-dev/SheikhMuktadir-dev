@@ -3,7 +3,7 @@
 **UI + Frontend Developer (React Only)**  
 *Self-taught in 2025* — mastered **React** from zero to production using **Udemy (Maximilian Schwarzmüller)** and **Youtube (freeCodeCamp & Code Stoic)**.
 
-I build **clean, responsive, pixel-perfect UIs** that look great on every device. No fluff — just **React, Context API, async/await + fetch**, and **Tailwind CSS**.
+I build **clean, responsive, pixel-perfect UIs** that look great on every device. No fluff — just **React, Context API, async/await + fetch**, **CSS** and **Tailwind CSS**.
 
 ---
 
