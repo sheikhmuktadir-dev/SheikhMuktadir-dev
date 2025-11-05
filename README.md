@@ -29,7 +29,6 @@ Fluent in English | Professional | Punctual | Team player
 
 ---
 
-**I don’t need hand-holding. I need a challenge.**  
 Give me a Figma file. I’ll return a live, production-ready React app.
 
 **Dubai-based roles only. Let’s build something great — together.**
