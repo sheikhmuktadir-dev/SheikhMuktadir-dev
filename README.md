@@ -1,34 +1,38 @@
-## About Me
+# Sheikh Muktadir  
+**UI + Frontend Developer (React Specialist)**  
 
-**UI + Frontend Developer (React Only)**  
-*Self-taught in 2025* — mastered **React** from zero to production using **Udemy (Maximilian Schwarzmüller)** and **Youtube (freeCodeCamp & Code Stoic)**.
-
-I build **clean, responsive, pixel-perfect UIs** that look great on every device. No fluff — just **React, Context API, async/await + fetch**, **CSS** and **Tailwind CSS**.
+*Self-taught in 2025* — mastered **React** from zero to production with **Udemy (Maximilian Schwarzmüller)** + **YouTube (freeCodeCamp & Code Stoic)**.
 
 ---
 
-**What I Do Best:**
-- Turn Figma designs into fully functional React apps  
-- Build smooth, fast, accessible user interfaces  
-- Manage state cleanly with **React Context** (no external libraries)  
-- Fetch and display real data with **async/await + error handling**  
-- Deploy live in minutes using **Vercel/Netlify**
+### What I Build  
+**Clean, responsive, pixel-perfect React UIs**  
+- Figma → Live app in **<24 hours**  
+- **React + Context API + async/await + fetch**  
+- **Tailwind CSS** & **vanilla CSS**  
+- Deployed on **Vercel / Netlify**
 
 ---
 
-**Projects I’ve Built:**
-- **Auria Property** – Modern real estate platform (listings, filters)  
-
-*Can build & deploy any UI live in <24 hours — just send a design.*
+### Featured Project  
+**Auria Property**  
+Real estate platform: listings, filters, fully responsive  
+*https://auria-luxury-dubai.vercel.app/*
 
 ---
 
+### Open to Work  
 **Dubai Onsite Only**  
-Ready to relocate and work **in-person** with UAE teams.  
-Fluent in English | Professional | Punctual | Team player  
+Ready to relocate | Full-time | Visa sponsorship welcome  
+Fluent in English | Professional | Deadline-driven
 
 ---
 
-Give me a Figma file. I’ll return a live, production-ready React app.
+### Contact  
+📧 [sheikhmuktadir.dev@gmail.com]
+💼 [https://www.linkedin.com/in/sheikhmuktadir-dev/]
 
-**Dubai-based roles only. Let’s build something great — together.**
+---
+
+> **Your Figma. My React. Live in a day.**  
+> **Dubai roles only.** Let’s build.
