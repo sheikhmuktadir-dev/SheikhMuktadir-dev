@@ -34,7 +34,7 @@
 - Built with **React + CSS**  
 - State: Context API for filters
 - Data: Mock API with `fetch` + `async/await`  
-- *Live on Vercel (can deploy in 1 hour on request)*
+- *Live on Vercel https://auria-luxury-dubai.vercel.app/*
 
 ---
 
