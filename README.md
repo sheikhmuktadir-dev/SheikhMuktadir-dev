@@ -1,5 +1,5 @@
 # Hey 👋 I'm Sheikh Muktadir  
-**Frontend & UI Developer | React.js Specialist | 2+ Years Commercial Experience**  
+**Frontend & Pixel-Perfect UI Developer | React.js Specialist | 2+ Years Commercial Experience**  
 Currently in **Dubai on visit visa – immediately available for onsite/hybrid roles**
 
 ### 🚀 What I Bring to the Table
