@@ -3,8 +3,7 @@
 Currently in **Dubai on visit visa – immediately available for onsite/hybrid roles**
 
 ### 🚀 What I Bring to the Table
-- 2+ years professional UI & Frontend development (HTML, CSS, JavaScript, Tailwind, Bootstrap) in product companies  
-- Self-taught React.js in 2025 → production-ready in <4 months (Hooks, Context, Router, Framer Motion, API integration)  
+- 2+ years professional UI & Frontend development (React.js, HTML, CSS, JavaScript, Tailwind, Bootstrap) in product companies  
 - Pixel-perfect, responsive, luxury-grade UIs that match Dubai's real-estate, fintech & e-commerce standards  
 - All personal React projects 100% built & deployed by me on Vercel (no templates, no copy-paste)
 
