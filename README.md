@@ -1,34 +1,31 @@
-# Hey 👋 I'm Sheikh Muktadir  
-**Frontend React.js Developer | Pixel-Perfect UI Specialist | 2.2+ Years Commercial Experience**  
-Currently in **Dubai on visit visa – immediately available for onsite/hybrid roles**
+# 👋 Hi, I'm Sheikh Muktadir
+### Frontend Developer | React.js Specialist | UI Engineer
 
-### 🚀 What I Bring to the Table
-- 2+ years professional UI & Frontend development (React.js, HTML, CSS, JavaScript, Tailwind, Bootstrap) in product companies  
-- Pixel-perfect, responsive, luxury-grade UIs that match Dubai's real-estate, fintech & e-commerce standards  
-- All personal React projects 100% built & deployed by me on Vercel (no templates, no copy-paste)
+I am a results-driven Frontend Developer with 3 years of experience specializing in building high-performance web applications. My focus is on transforming complex Figma designs into **pixel-perfect**, responsive UIs using React.js and Tailwind CSS.
 
-### 🔥 Featured Projects (Live & Ready for Interview Walk-through)
-
-| Project          | Tech Stack                     | Live Demo                         | What You'll See in Interview |
-|------------------|--------------------------------|-----------------------------------|------------------------------|
-| **Auria Property** – Luxury Property Platform | React + Vite, CSS, Framer Motion, Context API, async/await + fetch | https://auria-luxury-dubai.vercel.app/ | Dynamic listings, smart filters, smooth animations, mobile-first luxury UX |
-| **Almac** – Real Estate | React + Vite, CSS, React Router | https://almac.vercel.app/ | Clean architecture, reusable components, fast loading 
-
-### 🛠️ Tech Stack I'm Ready to Ship With Today
-`React.js` `Vite` `JavaScript (ES6+)` `Tailwind CSS` `Framer Motion` `REST APIs` `Git` `Responsive Design` `Figma to Code`
-
-### 📍 Current Status – Dubai-Focused
-- Located in **UAE right now** (visit visa)  
-- Can join **immediately** 
-- Prefer **onsite or hybrid in Dubai / Abu Dhabi**  
-- Visa sponsorship welcome  
-- Open to Junior & Mid-Level React / Frontend roles in real-estate tech, fintech, e-commerce, digital agencies
-
-### 📬 Let's Talk!
-Drop me a message – I reply fast  
-sheikhmuktadir.dev@gmail.com | https://www.linkedin.com/in/sheikhmuktadir-dev/ | +971505257130  (WhatsApp active)
-
-> “Available for interviews anytime this week – happy to do a live code review of any project above”
+- 📍 Currently based in: Dubai (Available for Onsite/Immediate Joiner)
+- 🏠 Home Location: Hyderabad, India
+- 💼 Professional Experience: 3 Years
+- ⚡ Fun Fact: I improved team development efficiency by 35% at my last role by building a reusable component library.
 
 ---
-⭐ Star my repos if you like clean code 
+
+### 🛠 Tech Stack & Tools
+- **Core:** JavaScript (ES6+), React.js, HTML5, CSS3, Vite
+- **Styling:** Tailwind CSS, Bootstrap, Responsive & Mobile-First Design
+- **Logic & APIs:** Context API, State Management, Axios, RESTful APIs, React Hook Form
+- **Workflow:** Git, Postman, Agile/Scrum
+
+---
+
+### 🚀 Key Projects
+- **[Travel & Hotel Booking Platform](https://www.zapstravel.com/)**: A fully responsive booking interface with complex search filters and multi-step state management.
+- **[Interactive Admin Dashboard](https://cortexdashboard.vercel.app/)**: Data-driven dashboard featuring dynamic charts and secure session persistence via LocalStorage.
+
+---
+
+### 📫 Connect with Me
+- 📧 [Email](mailto:sheikhmuktadir.dev@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sheikhmuktadir-dev/)
+- 🌐 [Portfolio](https://sheikh-muktadir-portfolio.vercel.app/)
+- 📞 +91 8093668843
