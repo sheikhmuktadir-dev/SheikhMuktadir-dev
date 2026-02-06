@@ -3,8 +3,7 @@
 
 I am a results-driven Frontend Developer with 3 years of experience specializing in building high-performance web applications. My focus is on transforming complex Figma designs into **pixel-perfect**, responsive UIs using React.js and Tailwind CSS.
 
-- 📍 Currently based in: Dubai (Available for Onsite/Immediate Joiner)
-- 🏠 Home Location: Hyderabad, India
+- 📍 Currently based in: Hyderabad, India
 - 💼 Professional Experience: 3 Years
 - ⚡ Fun Fact: I improved team development efficiency by 35% at my last role by building a reusable component library.
 
