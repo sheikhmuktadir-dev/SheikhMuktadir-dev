@@ -33,11 +33,6 @@ I am a results-driven **Frontend Developer with 3+ years of experience** special
 | **Travel Booking** | Scalable booking platform with multi-step flows and search filters. | React, Custom CSS | [Live Demo](https://www.zapstravel.com/) |
 | **Admin Dashboard** | High-performance dashboard with data visualization and protected routes. | React, React Hook Form | [Live Demo](https://cortexdashboard.vercel.app/) |
 
----
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyo-night)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyo-night)
 
 ---
 
