@@ -3,7 +3,7 @@
 
 I am a results-driven **Frontend Developer with 3+ years of experience** specializing in building high-performance web applications. I bridge the gap between complex Figma designs and pixel-perfect, scalable UIs.
 
-- 🌍 Currently based in: **Hyderabad, India**
+- 🌍 Location: **Currently in Hyderabad (Open to Relocation to Bangalore, Pune, Mumbai, Noida, and Gurgaon).**
 - 💼 Technical Mentor at **Naresh i Technologies** (Mentored 50+ Devs)
 - 🚀 Expert in **React.js, Tailwind CSS, and Frontend Optimization**
 - ⚡ **Immediate Joiner** | 100% committed to clean, maintainable code.
