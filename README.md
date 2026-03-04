@@ -14,14 +14,13 @@ I am a results-driven **Frontend Developer with 3+ years of experience** special
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 - **Core:** React.js, JavaScript (ES6+), HTML5, CSS3, Vite
 - **Styling:** Tailwind CSS, Bootstrap, Responsive & Mobile-First Design
-- **Logic:** Context API, State Management (Redux), Axios, RESTful APIs, React Hook Form
+- **Logic:** Context API, State Management (Redux Toolkit), Axios, RESTful APIs, React Hook Form
 - **Workflow:** Agile/Scrum, Postman, Vercel, Netlify
 
 ---
@@ -30,8 +29,8 @@ I am a results-driven **Frontend Developer with 3+ years of experience** special
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Travel Booking** | Scalable booking platform with multi-step flows and search filters. | React, Custom CSS | [Live Demo](https://www.zapstravel.com/) |
-| **Admin Dashboard** | High-performance dashboard with data visualization and protected routes. | React, React Hook Form | [Live Demo](https://workzon.vercel.app/) |
+| **Travel & Hotel Booking Platform** | Scalable booking platform with multi-step flows and search filters. | React, Custom CSS | [Live Demo](https://www.zapstravel.com/) |
+| **Interactive Analytics Dashboard** | High-performance dashboard with data visualization and protected routes. | React, React Hook Form | [Live Demo](https://workzon.vercel.app/) |
 
 
 ---
