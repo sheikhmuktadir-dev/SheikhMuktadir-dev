@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sheikh Muktadir
 
-### Frontend Developer | React.js | UI Engineer
+### Frontend Developer | React.js Specialist 
 
 Frontend Developer with **3+ years of hands-on experience** building scalable, high-performance web applications.
 Specialized in converting complex designs into **pixel-perfect, production-ready UIs** with strong focus on performance, usability, and clean architecture.
